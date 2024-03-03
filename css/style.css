@@ -1,0 +1,17 @@
+.hidden {
+  display: none;
+}
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+span {
+  font-size: 20px;
+
+  font-weight: 900;
+}
+
+h2 {
+  color: white;
+}
